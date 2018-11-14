@@ -1,8 +1,8 @@
 ﻿# learning-git
 Repositorio de recetas con fines didácticos
 
-Aquí hay recetas de
-===================
+Recetas propuestas
+==================
 
 * [Ensaladas](Ensaladas/)
 
@@ -16,7 +16,7 @@ Aquí hay recetas de
 	- Guiso
 	- Caldereta de Pescado
 	- Carrilleras al vino
-	- Cocido madrileño
+	- Cocido madrileño tradicional
 	- Estofado de Ternera
 	- Pollo a la cerveza
 	- Pollo con pisto
@@ -61,7 +61,6 @@ Aquí hay recetas de
 Para colaborar
 --------------
 
-incluimos nuevas recetas
-
-Recuerda poner las recetas en la carpeta adecuada.
-Todas las recetas tienen foto!
+* Incluimos nuevas recetas
+* Recuerda poner las recetas en la carpeta adecuada.
+* Todas las recetas tienen foto!
