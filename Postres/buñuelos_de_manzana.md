@@ -23,24 +23,16 @@ Paso 5:
 
 Pon una pequeña parte de la harina (unas dos cucharadas) en un plato y el resto ponla en un bol. Añade la levadura al bol y mezcla. Pon un pellizco de sal también en el bol.
 
-Paso 6:
-
-Vierte el licor con el azúcar en el bol de la harina y mueve bien con la ayuda de unas varillas hasta obtener una crema espesa.
-
-Paso 7:
-
-Acerca una sartén al fuego con abundante aceite.
-
-Paso 8:
-
-Mientras se va calentando el aceite, pasa las manzanas por la harina del plato y dales golpecitos con la mano para retirar el exceso de harina.
+* Paso 6: Vierte el licor con el azúcar en el bol de la harina y mueve bien con la ayuda de unas varillas hasta obtener una crema espesa.
+* Paso 7: Acerca una sartén al fuego con abundante aceite.
+* Paso 8: Mientras se va calentando el aceite, pasa las manzanas por la harina del plato y dales golpecitos con la mano para retirar el exceso de harina.
 
 Paso 9:
 
 Ahora reboza las manzanas con la masa húmeda y de ahí, pásalas al aceite cuando ya esté bien caliente. Ve friendo tus buñuelos de manzana en pequeñas tandas para que no baje demasiado la temperatura del aceite. A medida que vayan estando doraditos por todos los lados, ve sacándolos a un papel absorbente para retirar el exceso de aceite.
 
-Presentación:
-
+Presentación
+============
 Sirve tus buñuelos de manzana recién hechos con un poco de azúcar glas pro encima. Este postre está riquísimo recién hecho, calentito, pero también tibio y del tiempo. ¡A disfrutar!
 
 Sugerencia:
