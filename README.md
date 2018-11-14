@@ -19,49 +19,48 @@ Aquí hay recetas de
 	- Cocido madrileño
 	- Estofado de Ternera
 	- Pollo a la cerveza
-	- Pollo con pisto
+	- Pollo con pistoccv
 	- Pollo con verduras 
 	- Guiso de carne con patatas  
-	- Patatas fritas horneadas
+	- Patatas fritas horneadasvvv
 	- guiso1
 	- Lentejas
 
-* [Carne & aves](Carne & aves/)
+* [Carne & aves](Carne & aves/)vvv
 	- Pollo a la cerveza
-	- Pollo con verdura
+	- Pollo con verduravvv
 	- Lentejas
 	- Morteruelo
 
 * [Postres](Postres/)
-	- Macedonia
-	- Natillas
+	- Macedoniavvv
+	- Natilvvvlas
 	- Brownie
 	- Buñuelos de manzanas
-	- Higos con queso de cabra gratinados
+	- Higos con queso dvve cabravvvv gratinados
 	- Mousse de limón con merengue
-	- Tarta de manzana
+	- Tarta de manzanavvvv
   	- Flan de huevo
-	- tarta de fresa
-	- postre1
+	- tarta de fresavvvv
+	- postre1vvvv
 
 * [Verduras](Verduras/)
 	- Ratatouille
 	- Patatas Cocidas
 
-* [Tortillas](Tortillas/)
+* [Tortillas](Tortillas/)vvv
 	- Patatas
 	- De Patatas Vegana 
 	- Patatas cocidas
-	- Francesa
+	- Francesavvvvv
 	- Chorizo
-	- Tuning
-	- Espinacas
+	- Tuningvvvvv
 	- Atun
 
 Para colaborar
 --------------
 
-incluimos nuevas recetas
+incluimos nuevas recetasvvvvv
 
 Recuerda poner las recetas en la carpeta adecuada.
 Todas las recetas tienen foto!
